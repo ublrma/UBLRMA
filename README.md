@@ -8,22 +8,21 @@
 </p>
 
 <p align="center">
-  Aspiring Developer | UI/UX Enthusiast | Open Source Contributor
+  Aspiring Data Analyst | Data Scientist in Progress | UI/UX Enthusiast | Open Source Contributor
 </p>
 
 ---
-I'm blrmau,  Information Technology student at the National University of Mongolia with a passion for creating engaging user experiences and contributing to open source. I believe in the power of collaboration and continuous learning.
-
+I'm Blrmau, a graduate in Information Technology from the National University of Mongolia with a passion for data analysis, data science, and UI/UX design. I enjoy creating engaging user experiences, contributing to open-source projects, and continuously learning new skills
 ### About Me 📘
 
 - 🌱 I’m currently learning machine learning and pyrhon.
 - 👯 I'd like to learn some other coding with someone.
-- 🤔 I’m looking for help with UI/UX best practices.
+- 🤔 I’m looking for help with UI/UX and Data science best practices.
 - 📫 How to reach me: [Discord](https://discord.com/users/Bolor#9874), [LinkedIn](http://www.linkedin.com/in/blrmau), [Email](mailto:uubolormaa@gmail.com)
 
 ### Education 🏫
 
-- 🎓 Studying Information Technology at the National University of Mongolia ([NUM](https://www.num.edu.mn/))
+- 🎓 Graduated with a degree in Information Technology from the National University of Mongolia ([NUM](https://www.num.edu.mn/)) in June 2024.  
 
 ### My GitHub Stats 📈
 
